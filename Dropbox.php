@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Libraries\Famous\Dropbox;
+namespace App\Libraries\Dropbox;
 
 use App\Libraries\Famous\HttpCommunicator\Communicator;
 
